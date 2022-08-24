@@ -1,0 +1,4182 @@
+[
+    {
+        "date": "2020/5/9",
+        "patients": "89",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/10",
+        "patients": "81",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/11",
+        "patients": "78",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/12",
+        "patients": "74",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/13",
+        "patients": "71",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/14",
+        "patients": "56",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/15",
+        "patients": "52",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/16",
+        "patients": "50",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/17",
+        "patients": "50",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/18",
+        "patients": "50",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/19",
+        "patients": "47",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/20",
+        "patients": "43",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/21",
+        "patients": "26",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/22",
+        "patients": "24",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/23",
+        "patients": "23",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/24",
+        "patients": "22",
+        "deaths": "2"
+    },
+    {
+        "date": "2020/5/25",
+        "patients": "19",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/5/26",
+        "patients": "18",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/5/27",
+        "patients": "17",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/5/28",
+        "patients": "13",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/5/29",
+        "patients": "13",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/5/30",
+        "patients": "13",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/5/31",
+        "patients": "11",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/1",
+        "patients": "7",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/2",
+        "patients": "7",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/3",
+        "patients": "6",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/4",
+        "patients": "2",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/5",
+        "patients": "3",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/6",
+        "patients": "3",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/7",
+        "patients": "2",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/8",
+        "patients": "2",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/9",
+        "patients": "1",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/10",
+        "patients": "1",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/11",
+        "patients": "1",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/12",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/13",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/14",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/15",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/16",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/17",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/18",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/19",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/20",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/21",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/22",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/23",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/24",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/25",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/26",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/27",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/28",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/29",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/6/30",
+        "patients": "0",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/1",
+        "patients": "1",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/2",
+        "patients": "1",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/3",
+        "patients": "1",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/4",
+        "patients": "1",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/5",
+        "patients": "1",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/6",
+        "patients": "2",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/7",
+        "patients": "4",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/8",
+        "patients": "4",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/9",
+        "patients": "4",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/10",
+        "patients": "6",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/11",
+        "patients": "8",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/12",
+        "patients": "10",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/13",
+        "patients": "11",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/14",
+        "patients": "13",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/15",
+        "patients": "14",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/16",
+        "patients": "22",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/17",
+        "patients": "28",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/18",
+        "patients": "35",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/19",
+        "patients": "35",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/20",
+        "patients": "32",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/21",
+        "patients": "33",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/22",
+        "patients": "39",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/23",
+        "patients": "40",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/24",
+        "patients": "52",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/25",
+        "patients": "54",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/26",
+        "patients": "60",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/27",
+        "patients": "64",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/28",
+        "patients": "58",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/29",
+        "patients": "67",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/30",
+        "patients": "79",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/7/31",
+        "patients": "84",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/1",
+        "patients": "96",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/2",
+        "patients": "113",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/3",
+        "patients": "114",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/4",
+        "patients": "121",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/5",
+        "patients": "121",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/6",
+        "patients": "109",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/7",
+        "patients": "113",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/8",
+        "patients": "104",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/9",
+        "patients": "89",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/10",
+        "patients": "95",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/11",
+        "patients": "87",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/12",
+        "patients": "89",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/13",
+        "patients": "77",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/14",
+        "patients": "77",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/15",
+        "patients": "71",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/16",
+        "patients": "73",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/17",
+        "patients": "72",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/18",
+        "patients": "37",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/19",
+        "patients": "32",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/20",
+        "patients": "33",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/21",
+        "patients": "33",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/22",
+        "patients": "27",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/23",
+        "patients": "28",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/24",
+        "patients": "28",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/25",
+        "patients": "26",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/26",
+        "patients": "22",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/27",
+        "patients": "20",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/28",
+        "patients": "20",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/29",
+        "patients": "18",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/30",
+        "patients": "16",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/8/31",
+        "patients": "16",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/1",
+        "patients": "14",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/2",
+        "patients": "13",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/3",
+        "patients": "14",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/4",
+        "patients": "13",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/5",
+        "patients": "11",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/6",
+        "patients": "9",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/7",
+        "patients": "9",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/8",
+        "patients": "10",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/9",
+        "patients": "12",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/10",
+        "patients": "12",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/11",
+        "patients": "11",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/12",
+        "patients": "9",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/13",
+        "patients": "7",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/14",
+        "patients": "9",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/15",
+        "patients": "13",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/16",
+        "patients": "12",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/17",
+        "patients": "10",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/18",
+        "patients": "10",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/19",
+        "patients": "9",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/20",
+        "patients": "9",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/21",
+        "patients": "10",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/22",
+        "patients": "12",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/23",
+        "patients": "20",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/24",
+        "patients": "22",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/25",
+        "patients": "23",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/26",
+        "patients": "26",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/27",
+        "patients": "37",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/28",
+        "patients": "47",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/29",
+        "patients": "61",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/9/30",
+        "patients": "76",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/1",
+        "patients": "85",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/2",
+        "patients": "94",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/3",
+        "patients": "97",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/4",
+        "patients": "106",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/5",
+        "patients": "105",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/6",
+        "patients": "88",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/7",
+        "patients": "83",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/8",
+        "patients": "80",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/9",
+        "patients": "65",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/10",
+        "patients": "57",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/11",
+        "patients": "55",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/12",
+        "patients": "57",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/13",
+        "patients": "60",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/14",
+        "patients": "45",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/15",
+        "patients": "43",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/16",
+        "patients": "44",
+        "deaths": "3"
+    },
+    {
+        "date": "2020/10/17",
+        "patients": "40",
+        "deaths": "4"
+    },
+    {
+        "date": "2020/10/18",
+        "patients": "39",
+        "deaths": "4"
+    },
+    {
+        "date": "2020/10/19",
+        "patients": "40",
+        "deaths": "4"
+    },
+    {
+        "date": "2020/10/20",
+        "patients": "33",
+        "deaths": "4"
+    },
+    {
+        "date": "2020/10/21",
+        "patients": "30",
+        "deaths": "4"
+    },
+    {
+        "date": "2020/10/22",
+        "patients": "25",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/23",
+        "patients": "24",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/24",
+        "patients": "19",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/25",
+        "patients": "18",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/26",
+        "patients": "19",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/27",
+        "patients": "15",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/28",
+        "patients": "12",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/29",
+        "patients": "11",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/30",
+        "patients": "11",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/10/31",
+        "patients": "11",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/1",
+        "patients": "14",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/2",
+        "patients": "14",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/3",
+        "patients": "11",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/4",
+        "patients": "11",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/5",
+        "patients": "13",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/6",
+        "patients": "14",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/7",
+        "patients": "17",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/8",
+        "patients": "18",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/9",
+        "patients": "23",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/10",
+        "patients": "23",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/11",
+        "patients": "23",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/12",
+        "patients": "22",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/13",
+        "patients": "24",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/14",
+        "patients": "23",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/15",
+        "patients": "29",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/16",
+        "patients": "29",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/17",
+        "patients": "33",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/18",
+        "patients": "34",
+        "deaths": "5"
+    },
+    {
+        "date": "2020/11/19",
+        "patients": "45",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/20",
+        "patients": "43",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/21",
+        "patients": "48",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/22",
+        "patients": "51",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/23",
+        "patients": "59",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/24",
+        "patients": "67",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/25",
+        "patients": "62",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/26",
+        "patients": "57",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/27",
+        "patients": "62",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/28",
+        "patients": "62",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/29",
+        "patients": "62",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/11/30",
+        "patients": "101",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/12/1",
+        "patients": "101",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/12/2",
+        "patients": "111",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/12/3",
+        "patients": "124",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/12/4",
+        "patients": "162",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/12/5",
+        "patients": "203",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/12/6",
+        "patients": "203",
+        "deaths": "6"
+    },
+    {
+        "date": "2020/12/7",
+        "patients": "214",
+        "deaths": "7"
+    },
+    {
+        "date": "2020/12/8",
+        "patients": "225",
+        "deaths": "7"
+    },
+    {
+        "date": "2020/12/9",
+        "patients": "225",
+        "deaths": "7"
+    },
+    {
+        "date": "2020/12/10",
+        "patients": "257",
+        "deaths": "8"
+    },
+    {
+        "date": "2020/12/11",
+        "patients": "276",
+        "deaths": "8"
+    },
+    {
+        "date": "2020/12/12",
+        "patients": "287",
+        "deaths": "8"
+    },
+    {
+        "date": "2020/12/13",
+        "patients": "283",
+        "deaths": "8"
+    },
+    {
+        "date": "2020/12/14",
+        "patients": "303",
+        "deaths": "9"
+    },
+    {
+        "date": "2020/12/15",
+        "patients": "271",
+        "deaths": "9"
+    },
+    {
+        "date": "2020/12/16",
+        "patients": "262",
+        "deaths": "11"
+    },
+    {
+        "date": "2020/12/17",
+        "patients": "278",
+        "deaths": "12"
+    },
+    {
+        "date": "2020/12/18",
+        "patients": "279",
+        "deaths": "12"
+    },
+    {
+        "date": "2020/12/19",
+        "patients": "295",
+        "deaths": "13"
+    },
+    {
+        "date": "2020/12/20",
+        "patients": "295",
+        "deaths": "13"
+    },
+    {
+        "date": "2020/12/21",
+        "patients": "380",
+        "deaths": "15"
+    },
+    {
+        "date": "2020/12/22",
+        "patients": "405",
+        "deaths": "15"
+    },
+    {
+        "date": "2020/12/23",
+        "patients": "418",
+        "deaths": "16"
+    },
+    {
+        "date": "2020/12/24",
+        "patients": "407",
+        "deaths": "18"
+    },
+    {
+        "date": "2020/12/25",
+        "patients": "454",
+        "deaths": "18"
+    },
+    {
+        "date": "2020/12/26",
+        "patients": "466",
+        "deaths": "18"
+    },
+    {
+        "date": "2020/12/27",
+        "patients": "493",
+        "deaths": "18"
+    },
+    {
+        "date": "2020/12/28",
+        "patients": "486",
+        "deaths": "23"
+    },
+    {
+        "date": "2020/12/29",
+        "patients": "535",
+        "deaths": "23"
+    },
+    {
+        "date": "2020/12/30",
+        "patients": "579",
+        "deaths": "28"
+    },
+    {
+        "date": "2020/12/31",
+        "patients": "617",
+        "deaths": "29"
+    },
+    {
+        "date": "2021/1/1",
+        "patients": "609",
+        "deaths": "35"
+    },
+    {
+        "date": "2021/1/2",
+        "patients": "656",
+        "deaths": "36"
+    },
+    {
+        "date": "2021/1/3",
+        "patients": "699",
+        "deaths": "41"
+    },
+    {
+        "date": "2021/1/4",
+        "patients": "714",
+        "deaths": "43"
+    },
+    {
+        "date": "2021/1/5",
+        "patients": "702",
+        "deaths": "45"
+    },
+    {
+        "date": "2021/1/6",
+        "patients": "677",
+        "deaths": "49"
+    },
+    {
+        "date": "2021/1/7",
+        "patients": "703",
+        "deaths": "51"
+    },
+    {
+        "date": "2021/1/8",
+        "patients": "703",
+        "deaths": "51"
+    },
+    {
+        "date": "2021/1/9",
+        "patients": "736",
+        "deaths": "55"
+    },
+    {
+        "date": "2021/1/10",
+        "patients": "762",
+        "deaths": "56"
+    },
+    {
+        "date": "2021/1/11",
+        "patients": "726",
+        "deaths": "57"
+    },
+    {
+        "date": "2021/1/12",
+        "patients": "687",
+        "deaths": "58"
+    },
+    {
+        "date": "2021/1/13",
+        "patients": "649",
+        "deaths": "62"
+    },
+    {
+        "date": "2021/1/14",
+        "patients": "599",
+        "deaths": "62"
+    },
+    {
+        "date": "2021/1/15",
+        "patients": "593",
+        "deaths": "66"
+    },
+    {
+        "date": "2021/1/16",
+        "patients": "568",
+        "deaths": "67"
+    },
+    {
+        "date": "2021/1/17",
+        "patients": "543",
+        "deaths": "70"
+    },
+    {
+        "date": "2021/1/18",
+        "patients": "527",
+        "deaths": "70"
+    },
+    {
+        "date": "2021/1/19",
+        "patients": "488",
+        "deaths": "72"
+    },
+    {
+        "date": "2021/1/20",
+        "patients": "430",
+        "deaths": "73"
+    },
+    {
+        "date": "2021/1/21",
+        "patients": "450",
+        "deaths": "77"
+    },
+    {
+        "date": "2021/1/22",
+        "patients": "439",
+        "deaths": "78"
+    },
+    {
+        "date": "2021/1/23",
+        "patients": "406",
+        "deaths": "81"
+    },
+    {
+        "date": "2021/1/24",
+        "patients": "379",
+        "deaths": "85"
+    },
+    {
+        "date": "2021/1/25",
+        "patients": "351",
+        "deaths": "87"
+    },
+    {
+        "date": "2021/1/26",
+        "patients": "343",
+        "deaths": "88"
+    },
+    {
+        "date": "2021/1/27",
+        "patients": "300",
+        "deaths": "89"
+    },
+    {
+        "date": "2021/1/28",
+        "patients": "304",
+        "deaths": "91"
+    },
+    {
+        "date": "2021/1/29",
+        "patients": "315",
+        "deaths": "91"
+    },
+    {
+        "date": "2021/1/30",
+        "patients": "313",
+        "deaths": "92"
+    },
+    {
+        "date": "2021/1/31",
+        "patients": "321",
+        "deaths": "92"
+    },
+    {
+        "date": "2021/2/1",
+        "patients": "312",
+        "deaths": "92"
+    },
+    {
+        "date": "2021/2/2",
+        "patients": "295",
+        "deaths": "94"
+    },
+    {
+        "date": "2021/2/3",
+        "patients": "278",
+        "deaths": "94"
+    },
+    {
+        "date": "2021/2/4",
+        "patients": "269",
+        "deaths": "94"
+    },
+    {
+        "date": "2021/2/5",
+        "patients": "230",
+        "deaths": "94"
+    },
+    {
+        "date": "2021/2/6",
+        "patients": "208",
+        "deaths": "94"
+    },
+    {
+        "date": "2021/2/7",
+        "patients": "187",
+        "deaths": "95"
+    },
+    {
+        "date": "2021/2/8",
+        "patients": "184",
+        "deaths": "95"
+    },
+    {
+        "date": "2021/2/9",
+        "patients": "162",
+        "deaths": "96"
+    },
+    {
+        "date": "2021/2/10",
+        "patients": "148",
+        "deaths": "96"
+    },
+    {
+        "date": "2021/2/11",
+        "patients": "128",
+        "deaths": "98"
+    },
+    {
+        "date": "2021/2/12",
+        "patients": "134",
+        "deaths": "98"
+    },
+    {
+        "date": "2021/2/13",
+        "patients": "111",
+        "deaths": "98"
+    },
+    {
+        "date": "2021/2/14",
+        "patients": "113",
+        "deaths": "99"
+    },
+    {
+        "date": "2021/2/15",
+        "patients": "117",
+        "deaths": "99"
+    },
+    {
+        "date": "2021/2/16",
+        "patients": "110",
+        "deaths": "99"
+    },
+    {
+        "date": "2021/2/17",
+        "patients": "109",
+        "deaths": "99"
+    },
+    {
+        "date": "2021/2/18",
+        "patients": "111",
+        "deaths": "99"
+    },
+    {
+        "date": "2021/2/19",
+        "patients": "102",
+        "deaths": "99"
+    },
+    {
+        "date": "2021/2/20",
+        "patients": "94",
+        "deaths": "99"
+    },
+    {
+        "date": "2021/2/21",
+        "patients": "84",
+        "deaths": "101"
+    },
+    {
+        "date": "2021/2/22",
+        "patients": "81",
+        "deaths": "101"
+    },
+    {
+        "date": "2021/2/23",
+        "patients": "69",
+        "deaths": "101"
+    },
+    {
+        "date": "2021/2/24",
+        "patients": "66",
+        "deaths": "101"
+    },
+    {
+        "date": "2021/2/25",
+        "patients": "48",
+        "deaths": "102"
+    },
+    {
+        "date": "2021/2/26",
+        "patients": "45",
+        "deaths": "102"
+    },
+    {
+        "date": "2021/2/27",
+        "patients": "41",
+        "deaths": "102"
+    },
+    {
+        "date": "2021/2/28",
+        "patients": "37",
+        "deaths": "102"
+    },
+    {
+        "date": "2021/3/1",
+        "patients": "37",
+        "deaths": "102"
+    },
+    {
+        "date": "2021/3/2",
+        "patients": "30",
+        "deaths": "102"
+    },
+    {
+        "date": "2021/3/3",
+        "patients": "32",
+        "deaths": "102"
+    },
+    {
+        "date": "2021/3/4",
+        "patients": "34",
+        "deaths": "102"
+    },
+    {
+        "date": "2021/3/5",
+        "patients": "31",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/6",
+        "patients": "31",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/7",
+        "patients": "34",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/8",
+        "patients": "34",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/9",
+        "patients": "33",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/10",
+        "patients": "37",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/11",
+        "patients": "35",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/12",
+        "patients": "33",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/13",
+        "patients": "32",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/14",
+        "patients": "32",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/15",
+        "patients": "35",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/16",
+        "patients": "36",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/17",
+        "patients": "36",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/18",
+        "patients": "36",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/19",
+        "patients": "35",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/20",
+        "patients": "19",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/21",
+        "patients": "33",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/22",
+        "patients": "41",
+        "deaths": "103"
+    },
+    {
+        "date": "2021/3/23",
+        "patients": "39",
+        "deaths": "104"
+    },
+    {
+        "date": "2021/3/24",
+        "patients": "36",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/3/25",
+        "patients": "34",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/3/26",
+        "patients": "36",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/3/27",
+        "patients": "40",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/3/28",
+        "patients": "44",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/3/29",
+        "patients": "54",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/3/30",
+        "patients": "69",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/3/31",
+        "patients": "74",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/1",
+        "patients": "83",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/2",
+        "patients": "88",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/3",
+        "patients": "95",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/4",
+        "patients": "97",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/5",
+        "patients": "106",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/6",
+        "patients": "111",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/7",
+        "patients": "106",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/8",
+        "patients": "99",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/9",
+        "patients": "96",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/10",
+        "patients": "102",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/11",
+        "patients": "104",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/12",
+        "patients": "103",
+        "deaths": "106"
+    },
+    {
+        "date": "2021/4/13",
+        "patients": "95",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/14",
+        "patients": "91",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/15",
+        "patients": "104",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/16",
+        "patients": "115",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/17",
+        "patients": "124",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/18",
+        "patients": "134",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/19",
+        "patients": "156",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/20",
+        "patients": "169",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/21",
+        "patients": "177",
+        "deaths": "107"
+    },
+    {
+        "date": "2021/4/22",
+        "patients": "193",
+        "deaths": "108"
+    },
+    {
+        "date": "2021/4/23",
+        "patients": "219",
+        "deaths": "108"
+    },
+    {
+        "date": "2021/4/24",
+        "patients": "240",
+        "deaths": "109"
+    },
+    {
+        "date": "2021/4/25",
+        "patients": "259",
+        "deaths": "109"
+    },
+    {
+        "date": "2021/4/26",
+        "patients": "259",
+        "deaths": "109"
+    },
+    {
+        "date": "2021/4/27",
+        "patients": "265",
+        "deaths": "109"
+    },
+    {
+        "date": "2021/4/28",
+        "patients": "286",
+        "deaths": "109"
+    },
+    {
+        "date": "2021/4/29",
+        "patients": "321",
+        "deaths": "109"
+    },
+    {
+        "date": "2021/4/30",
+        "patients": "357",
+        "deaths": "109"
+    },
+    {
+        "date": "2021/5/1",
+        "patients": "357",
+        "deaths": "109"
+    },
+    {
+        "date": "2021/5/2",
+        "patients": "433",
+        "deaths": "110"
+    },
+    {
+        "date": "2021/5/3",
+        "patients": "461",
+        "deaths": "110"
+    },
+    {
+        "date": "2021/5/4",
+        "patients": "476",
+        "deaths": "110"
+    },
+    {
+        "date": "2021/5/5",
+        "patients": "506",
+        "deaths": "110"
+    },
+    {
+        "date": "2021/5/6",
+        "patients": "497",
+        "deaths": "110"
+    },
+    {
+        "date": "2021/5/7",
+        "patients": "536",
+        "deaths": "110"
+    },
+    {
+        "date": "2021/5/8",
+        "patients": "536",
+        "deaths": "110"
+    },
+    {
+        "date": "2021/5/9",
+        "patients": "605",
+        "deaths": "111"
+    },
+    {
+        "date": "2021/5/10",
+        "patients": "668",
+        "deaths": "111"
+    },
+    {
+        "date": "2021/5/11",
+        "patients": "681",
+        "deaths": "111"
+    },
+    {
+        "date": "2021/5/12",
+        "patients": "762",
+        "deaths": "111"
+    },
+    {
+        "date": "2021/5/13",
+        "patients": "823",
+        "deaths": "111"
+    },
+    {
+        "date": "2021/5/14",
+        "patients": "864",
+        "deaths": "112"
+    },
+    {
+        "date": "2021/5/15",
+        "patients": "848",
+        "deaths": "112"
+    },
+    {
+        "date": "2021/5/16",
+        "patients": "856",
+        "deaths": "112"
+    },
+    {
+        "date": "2021/5/17",
+        "patients": "825",
+        "deaths": "113"
+    },
+    {
+        "date": "2021/5/18",
+        "patients": "832",
+        "deaths": "113"
+    },
+    {
+        "date": "2021/5/19",
+        "patients": "861",
+        "deaths": "114"
+    },
+    {
+        "date": "2021/5/20",
+        "patients": "860",
+        "deaths": "116"
+    },
+    {
+        "date": "2021/5/21",
+        "patients": "954",
+        "deaths": "117"
+    },
+    {
+        "date": "2021/5/22",
+        "patients": "954",
+        "deaths": "117"
+    },
+    {
+        "date": "2021/5/23",
+        "patients": "1080",
+        "deaths": "117"
+    },
+    {
+        "date": "2021/5/24",
+        "patients": "1119",
+        "deaths": "119"
+    },
+    {
+        "date": "2021/5/25",
+        "patients": "1118",
+        "deaths": "119"
+    },
+    {
+        "date": "2021/5/26",
+        "patients": "1118",
+        "deaths": "119"
+    },
+    {
+        "date": "2021/5/27",
+        "patients": "1118",
+        "deaths": "119"
+    },
+    {
+        "date": "2021/5/28",
+        "patients": "1091",
+        "deaths": "125"
+    },
+    {
+        "date": "2021/5/29",
+        "patients": "1200",
+        "deaths": "126"
+    },
+    {
+        "date": "2021/5/30",
+        "patients": "1200",
+        "deaths": "126"
+    },
+    {
+        "date": "2021/5/31",
+        "patients": "1144",
+        "deaths": "130"
+    },
+    {
+        "date": "2021/6/1",
+        "patients": "913",
+        "deaths": "131"
+    },
+    {
+        "date": "2021/6/2",
+        "patients": "853",
+        "deaths": "134"
+    },
+    {
+        "date": "2021/6/3",
+        "patients": "827",
+        "deaths": "137"
+    },
+    {
+        "date": "2021/6/4",
+        "patients": "662",
+        "deaths": "140"
+    },
+    {
+        "date": "2021/6/5",
+        "patients": "640",
+        "deaths": "144"
+    },
+    {
+        "date": "2021/6/6",
+        "patients": "589",
+        "deaths": "144"
+    },
+    {
+        "date": "2021/6/7",
+        "patients": "578",
+        "deaths": "145"
+    },
+    {
+        "date": "2021/6/8",
+        "patients": "537",
+        "deaths": "145"
+    },
+    {
+        "date": "2021/6/9",
+        "patients": "482",
+        "deaths": "145"
+    },
+    {
+        "date": "2021/6/10",
+        "patients": "451",
+        "deaths": "146"
+    },
+    {
+        "date": "2021/6/11",
+        "patients": "422",
+        "deaths": "150"
+    },
+    {
+        "date": "2021/6/12",
+        "patients": "384",
+        "deaths": "150"
+    },
+    {
+        "date": "2021/6/13",
+        "patients": "372",
+        "deaths": "153"
+    },
+    {
+        "date": "2021/6/14",
+        "patients": "375",
+        "deaths": "156"
+    },
+    {
+        "date": "2021/6/15",
+        "patients": "349",
+        "deaths": "159"
+    },
+    {
+        "date": "2021/6/16",
+        "patients": "327",
+        "deaths": "160"
+    },
+    {
+        "date": "2021/6/17",
+        "patients": "310",
+        "deaths": "164"
+    },
+    {
+        "date": "2021/6/18",
+        "patients": "297",
+        "deaths": "164"
+    },
+    {
+        "date": "2021/6/19",
+        "patients": "292",
+        "deaths": "165"
+    },
+    {
+        "date": "2021/6/20",
+        "patients": "279",
+        "deaths": "166"
+    },
+    {
+        "date": "2021/6/21",
+        "patients": "266",
+        "deaths": "167"
+    },
+    {
+        "date": "2021/6/22",
+        "patients": "261",
+        "deaths": "167"
+    },
+    {
+        "date": "2021/6/23",
+        "patients": "244",
+        "deaths": "167"
+    },
+    {
+        "date": "2021/6/24",
+        "patients": "206",
+        "deaths": "170"
+    },
+    {
+        "date": "2021/6/25",
+        "patients": "191",
+        "deaths": "171"
+    },
+    {
+        "date": "2021/6/26",
+        "patients": "187",
+        "deaths": "174"
+    },
+    {
+        "date": "2021/6/27",
+        "patients": "174",
+        "deaths": "174"
+    },
+    {
+        "date": "2021/6/28",
+        "patients": "166",
+        "deaths": "174"
+    },
+    {
+        "date": "2021/6/29",
+        "patients": "136",
+        "deaths": "175"
+    },
+    {
+        "date": "2021/6/30",
+        "patients": "136",
+        "deaths": "175"
+    },
+    {
+        "date": "2021/7/1",
+        "patients": "123",
+        "deaths": "175"
+    },
+    {
+        "date": "2021/7/2",
+        "patients": "109",
+        "deaths": "175"
+    },
+    {
+        "date": "2021/7/3",
+        "patients": "103",
+        "deaths": "175"
+    },
+    {
+        "date": "2021/7/4",
+        "patients": "100",
+        "deaths": "175"
+    },
+    {
+        "date": "2021/7/5",
+        "patients": "98",
+        "deaths": "175"
+    },
+    {
+        "date": "2021/7/6",
+        "patients": "94",
+        "deaths": "176"
+    },
+    {
+        "date": "2021/7/7",
+        "patients": "87",
+        "deaths": "176"
+    },
+    {
+        "date": "2021/7/8",
+        "patients": "80",
+        "deaths": "176"
+    },
+    {
+        "date": "2021/7/9",
+        "patients": "74",
+        "deaths": "176"
+    },
+    {
+        "date": "2021/7/10",
+        "patients": "71",
+        "deaths": "176"
+    },
+    {
+        "date": "2021/7/11",
+        "patients": "72",
+        "deaths": "176"
+    },
+    {
+        "date": "2021/7/12",
+        "patients": "79",
+        "deaths": "176"
+    },
+    {
+        "date": "2021/7/13",
+        "patients": "69",
+        "deaths": "176"
+    },
+    {
+        "date": "2021/7/14",
+        "patients": "70",
+        "deaths": "177"
+    },
+    {
+        "date": "2021/7/15",
+        "patients": "75",
+        "deaths": "177"
+    },
+    {
+        "date": "2021/7/16",
+        "patients": "79",
+        "deaths": "177"
+    },
+    {
+        "date": "2021/7/17",
+        "patients": "83",
+        "deaths": "178"
+    },
+    {
+        "date": "2021/7/18",
+        "patients": "92",
+        "deaths": "178"
+    },
+    {
+        "date": "2021/7/19",
+        "patients": "96",
+        "deaths": "178"
+    },
+    {
+        "date": "2021/7/20",
+        "patients": "100",
+        "deaths": "178"
+    },
+    {
+        "date": "2021/7/21",
+        "patients": "98",
+        "deaths": "178"
+    },
+    {
+        "date": "2021/7/22",
+        "patients": "128",
+        "deaths": "178"
+    },
+    {
+        "date": "2021/7/23",
+        "patients": "132",
+        "deaths": "178"
+    },
+    {
+        "date": "2021/7/24",
+        "patients": "142",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/7/25",
+        "patients": "146",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/7/26",
+        "patients": "160",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/7/27",
+        "patients": "173",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/7/28",
+        "patients": "178",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/7/29",
+        "patients": "203",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/7/30",
+        "patients": "245",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/7/31",
+        "patients": "258",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/1",
+        "patients": "293",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/2",
+        "patients": "327",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/3",
+        "patients": "344",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/4",
+        "patients": "361",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/5",
+        "patients": "411",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/6",
+        "patients": "451",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/7",
+        "patients": "488",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/8",
+        "patients": "534",
+        "deaths": "179"
+    },
+    {
+        "date": "2021/8/9",
+        "patients": "626",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/10",
+        "patients": "626",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/11",
+        "patients": "635",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/12",
+        "patients": "655",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/13",
+        "patients": "655",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/14",
+        "patients": "788",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/15",
+        "patients": "839",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/16",
+        "patients": "878",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/17",
+        "patients": "928",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/18",
+        "patients": "991",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/19",
+        "patients": "1136",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/20",
+        "patients": "1235",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/21",
+        "patients": "1235",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/22",
+        "patients": "1513",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/23",
+        "patients": "1633",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/24",
+        "patients": "1659",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/25",
+        "patients": "1596",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/26",
+        "patients": "1587",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/27",
+        "patients": "1557",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/28",
+        "patients": "1510",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/29",
+        "patients": "1510",
+        "deaths": "180"
+    },
+    {
+        "date": "2021/8/30",
+        "patients": "1526",
+        "deaths": "181"
+    },
+    {
+        "date": "2021/8/31",
+        "patients": "1479",
+        "deaths": "181"
+    },
+    {
+        "date": "2021/9/1",
+        "patients": "1496",
+        "deaths": "181"
+    },
+    {
+        "date": "2021/9/2",
+        "patients": "1443",
+        "deaths": "181"
+    },
+    {
+        "date": "2021/9/3",
+        "patients": "1377",
+        "deaths": "183"
+    },
+    {
+        "date": "2021/9/4",
+        "patients": "1343",
+        "deaths": "185"
+    },
+    {
+        "date": "2021/9/5",
+        "patients": "1304",
+        "deaths": "185"
+    },
+    {
+        "date": "2021/9/6",
+        "patients": "1304",
+        "deaths": "185"
+    },
+    {
+        "date": "2021/9/7",
+        "patients": "1243",
+        "deaths": "186"
+    },
+    {
+        "date": "2021/9/8",
+        "patients": "1132",
+        "deaths": "187"
+    },
+    {
+        "date": "2021/9/9",
+        "patients": "1045",
+        "deaths": "189"
+    },
+    {
+        "date": "2021/9/10",
+        "patients": "1045",
+        "deaths": "189"
+    },
+    {
+        "date": "2021/9/11",
+        "patients": "945",
+        "deaths": "189"
+    },
+    {
+        "date": "2021/9/12",
+        "patients": "839",
+        "deaths": "189"
+    },
+    {
+        "date": "2021/9/13",
+        "patients": "805",
+        "deaths": "189"
+    },
+    {
+        "date": "2021/9/14",
+        "patients": "730",
+        "deaths": "189"
+    },
+    {
+        "date": "2021/9/15",
+        "patients": "730",
+        "deaths": "189"
+    },
+    {
+        "date": "2021/9/16",
+        "patients": "605",
+        "deaths": "190"
+    },
+    {
+        "date": "2021/9/17",
+        "patients": "605",
+        "deaths": "190"
+    },
+    {
+        "date": "2021/9/18",
+        "patients": "524",
+        "deaths": "191"
+    },
+    {
+        "date": "2021/9/19",
+        "patients": "496",
+        "deaths": "191"
+    },
+    {
+        "date": "2021/9/20",
+        "patients": "496",
+        "deaths": "191"
+    },
+    {
+        "date": "2021/9/21",
+        "patients": "724",
+        "deaths": "191"
+    },
+    {
+        "date": "2021/9/22",
+        "patients": "623",
+        "deaths": "192"
+    },
+    {
+        "date": "2021/9/23",
+        "patients": "547",
+        "deaths": "193"
+    },
+    {
+        "date": "2021/9/24",
+        "patients": "545",
+        "deaths": "193"
+    },
+    {
+        "date": "2021/9/25",
+        "patients": "466",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/9/26",
+        "patients": "416",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/9/27",
+        "patients": "341",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/9/28",
+        "patients": "341",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/9/29",
+        "patients": "324",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/9/30",
+        "patients": "297",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/10/1",
+        "patients": "305",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/10/2",
+        "patients": "272",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/10/3",
+        "patients": "272",
+        "deaths": "196"
+    },
+    {
+        "date": "2021/10/4",
+        "patients": "280",
+        "deaths": "197"
+    },
+    {
+        "date": "2021/10/5",
+        "patients": "246",
+        "deaths": "198"
+    },
+    {
+        "date": "2021/10/6",
+        "patients": "219",
+        "deaths": "198"
+    },
+    {
+        "date": "2021/10/7",
+        "patients": "219",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/8",
+        "patients": "205",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/9",
+        "patients": "183",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/10",
+        "patients": "170",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/11",
+        "patients": "132",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/12",
+        "patients": "132",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/13",
+        "patients": "116",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/14",
+        "patients": "121",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/15",
+        "patients": "137",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/16",
+        "patients": "150",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/17",
+        "patients": "149",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/18",
+        "patients": "158",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/19",
+        "patients": "152",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/20",
+        "patients": "141",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/21",
+        "patients": "130",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/22",
+        "patients": "119",
+        "deaths": "199"
+    },
+    {
+        "date": "2021/10/23",
+        "patients": "109",
+        "deaths": "200"
+    },
+    {
+        "date": "2021/10/24",
+        "patients": "108",
+        "deaths": "200"
+    },
+    {
+        "date": "2021/10/25",
+        "patients": "100",
+        "deaths": "201"
+    },
+    {
+        "date": "2021/10/26",
+        "patients": "74",
+        "deaths": "201"
+    },
+    {
+        "date": "2021/10/27",
+        "patients": "64",
+        "deaths": "201"
+    },
+    {
+        "date": "2021/10/28",
+        "patients": "62",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/10/29",
+        "patients": "55",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/10/30",
+        "patients": "53",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/10/31",
+        "patients": "70",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/1",
+        "patients": "72",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/2",
+        "patients": "59",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/3",
+        "patients": "55",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/4",
+        "patients": "55",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/5",
+        "patients": "58",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/6",
+        "patients": "48",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/7",
+        "patients": "47",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/8",
+        "patients": "48",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/9",
+        "patients": "44",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/10",
+        "patients": "45",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/11",
+        "patients": "44",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/12",
+        "patients": "47",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/13",
+        "patients": "47",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/14",
+        "patients": "47",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/15",
+        "patients": "42",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/16",
+        "patients": "40",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/17",
+        "patients": "34",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/18",
+        "patients": "26",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/19",
+        "patients": "22",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/20",
+        "patients": "24",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/21",
+        "patients": "19",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/22",
+        "patients": "16",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/23",
+        "patients": "12",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/24",
+        "patients": "12",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/25",
+        "patients": "13",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/26",
+        "patients": "13",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/27",
+        "patients": "14",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/28",
+        "patients": "17",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/29",
+        "patients": "17",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/11/30",
+        "patients": "17",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/1",
+        "patients": "19",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/2",
+        "patients": "17",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/3",
+        "patients": "17",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/4",
+        "patients": "16",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/5",
+        "patients": "14",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/6",
+        "patients": "14",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/7",
+        "patients": "7",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/8",
+        "patients": "7",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/9",
+        "patients": "4",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/10",
+        "patients": "3",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/11",
+        "patients": "1",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/12",
+        "patients": "1",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/13",
+        "patients": "1",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/14",
+        "patients": "1",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/15",
+        "patients": "1",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/16",
+        "patients": "1",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/17",
+        "patients": "0",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/18",
+        "patients": "0",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/19",
+        "patients": "0",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/20",
+        "patients": "0",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/21",
+        "patients": "0",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/22",
+        "patients": "0",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/23",
+        "patients": "2",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/24",
+        "patients": "5",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/25",
+        "patients": "6",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/26",
+        "patients": "11",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/27",
+        "patients": "11",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/28",
+        "patients": "12",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/29",
+        "patients": "12",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/30",
+        "patients": "15",
+        "deaths": "202"
+    },
+    {
+        "date": "2021/12/31",
+        "patients": "19",
+        "deaths": "202"
+    },
+    {
+        "date": "2022/1/1",
+        "patients": "41",
+        "deaths": "202"
+    },
+    {
+        "date": "2022/1/2",
+        "patients": "61",
+        "deaths": "202"
+    },
+    {
+        "date": "2022/1/3",
+        "patients": "118",
+        "deaths": "202"
+    },
+    {
+        "date": "2022/1/4",
+        "patients": "159",
+        "deaths": "202"
+    },
+    {
+        "date": "2022/1/5",
+        "patients": "261",
+        "deaths": "202"
+    },
+    {
+        "date": "2022/1/6",
+        "patients": "402",
+        "deaths": "202"
+    },
+    {
+        "date": "2022/1/7",
+        "patients": "672",
+        "deaths": "203"
+    },
+    {
+        "date": "2022/1/8",
+        "patients": "1093",
+        "deaths": "203"
+    },
+    {
+        "date": "2022/1/9",
+        "patients": "1639",
+        "deaths": "203"
+    },
+    {
+        "date": "2022/1/10",
+        "patients": "2226",
+        "deaths": "203"
+    },
+    {
+        "date": "2022/1/11",
+        "patients": "2845",
+        "deaths": "203"
+    },
+    {
+        "date": "2022/1/12",
+        "patients": "3369",
+        "deaths": "203"
+    },
+    {
+        "date": "2022/1/13",
+        "patients": "3899",
+        "deaths": "203"
+    },
+    {
+        "date": "2022/1/14",
+        "patients": "4503",
+        "deaths": "205"
+    },
+    {
+        "date": "2022/1/15",
+        "patients": "5313",
+        "deaths": "205"
+    },
+    {
+        "date": "2022/1/16",
+        "patients": "6378",
+        "deaths": "205"
+    },
+    {
+        "date": "2022/1/17",
+        "patients": "7489",
+        "deaths": "205"
+    },
+    {
+        "date": "2022/1/18",
+        "patients": "8272",
+        "deaths": "207"
+    },
+    {
+        "date": "2022/1/19",
+        "patients": "8972",
+        "deaths": "209"
+    },
+    {
+        "date": "2022/1/20",
+        "patients": "10013",
+        "deaths": "212"
+    },
+    {
+        "date": "2022/1/21",
+        "patients": "11210",
+        "deaths": "212"
+    },
+    {
+        "date": "2022/1/22",
+        "patients": "12858",
+        "deaths": "213"
+    },
+    {
+        "date": "2022/1/23",
+        "patients": "14304",
+        "deaths": "214"
+    },
+    {
+        "date": "2022/1/24",
+        "patients": "15195",
+        "deaths": "217"
+    },
+    {
+        "date": "2022/1/25",
+        "patients": "15392",
+        "deaths": "217"
+    },
+    {
+        "date": "2022/1/26",
+        "patients": "15741",
+        "deaths": "220"
+    },
+    {
+        "date": "2022/1/27",
+        "patients": "16441",
+        "deaths": "223"
+    },
+    {
+        "date": "2022/1/28",
+        "patients": "17790",
+        "deaths": "229"
+    },
+    {
+        "date": "2022/1/29",
+        "patients": "18235",
+        "deaths": "233"
+    },
+    {
+        "date": "2022/1/30",
+        "patients": "18991",
+        "deaths": "235"
+    },
+    {
+        "date": "2022/1/31",
+        "patients": "19913",
+        "deaths": "236"
+    },
+    {
+        "date": "2022/2/1",
+        "patients": "20143",
+        "deaths": "244"
+    },
+    {
+        "date": "2022/2/2",
+        "patients": "20548",
+        "deaths": "247"
+    },
+    {
+        "date": "2022/2/3",
+        "patients": "20390",
+        "deaths": "250"
+    },
+    {
+        "date": "2022/2/4",
+        "patients": "20685",
+        "deaths": "253"
+    },
+    {
+        "date": "2022/2/5",
+        "patients": "21634",
+        "deaths": "260"
+    },
+    {
+        "date": "2022/2/6",
+        "patients": "21981",
+        "deaths": "262"
+    },
+    {
+        "date": "2022/2/7",
+        "patients": "19297",
+        "deaths": "266"
+    },
+    {
+        "date": "2022/2/8",
+        "patients": "19561",
+        "deaths": "270"
+    },
+    {
+        "date": "2022/2/9",
+        "patients": "19853",
+        "deaths": "277"
+    },
+    {
+        "date": "2022/2/10",
+        "patients": "20220",
+        "deaths": "282"
+    },
+    {
+        "date": "2022/2/11",
+        "patients": "20684",
+        "deaths": "288"
+    },
+    {
+        "date": "2022/2/12",
+        "patients": "21044",
+        "deaths": "290"
+    },
+    {
+        "date": "2022/2/13",
+        "patients": "21376",
+        "deaths": "297"
+    },
+    {
+        "date": "2022/2/14",
+        "patients": "21424",
+        "deaths": "303"
+    },
+    {
+        "date": "2022/2/15",
+        "patients": "21729",
+        "deaths": "306"
+    },
+    {
+        "date": "2022/2/16",
+        "patients": "19886",
+        "deaths": "320"
+    },
+    {
+        "date": "2022/2/17",
+        "patients": "19330",
+        "deaths": "327"
+    },
+    {
+        "date": "2022/2/18",
+        "patients": "19172",
+        "deaths": "329"
+    },
+    {
+        "date": "2022/2/19",
+        "patients": "18369",
+        "deaths": "337"
+    },
+    {
+        "date": "2022/2/20",
+        "patients": "18206",
+        "deaths": "348"
+    },
+    {
+        "date": "2022/2/21",
+        "patients": "15530",
+        "deaths": "354"
+    },
+    {
+        "date": "2022/2/22",
+        "patients": "11282",
+        "deaths": "354"
+    },
+    {
+        "date": "2022/2/23",
+        "patients": "11513",
+        "deaths": "364"
+    },
+    {
+        "date": "2022/2/24",
+        "patients": "11972",
+        "deaths": "374"
+    },
+    {
+        "date": "2022/2/25",
+        "patients": "12180",
+        "deaths": "375"
+    },
+    {
+        "date": "2022/2/26",
+        "patients": "10330",
+        "deaths": "378"
+    },
+    {
+        "date": "2022/2/27",
+        "patients": "10578",
+        "deaths": "382"
+    },
+    {
+        "date": "2022/2/28",
+        "patients": "10266",
+        "deaths": "386"
+    },
+    {
+        "date": "2022/3/1",
+        "patients": "10326",
+        "deaths": "387"
+    },
+    {
+        "date": "2022/3/2",
+        "patients": "10437",
+        "deaths": "393"
+    },
+    {
+        "date": "2022/3/3",
+        "patients": "11052",
+        "deaths": "397"
+    },
+    {
+        "date": "2022/3/4",
+        "patients": "10519",
+        "deaths": "402"
+    },
+    {
+        "date": "2022/3/5",
+        "patients": "10699",
+        "deaths": "405"
+    },
+    {
+        "date": "2022/3/6",
+        "patients": "11124",
+        "deaths": "408"
+    },
+    {
+        "date": "2022/3/7",
+        "patients": "8983",
+        "deaths": "411"
+    },
+    {
+        "date": "2022/3/8",
+        "patients": "7778",
+        "deaths": "414"
+    },
+    {
+        "date": "2022/3/9",
+        "patients": "7801",
+        "deaths": "418"
+    },
+    {
+        "date": "2022/3/10",
+        "patients": "8376",
+        "deaths": "423"
+    },
+    {
+        "date": "2022/3/11",
+        "patients": "8875",
+        "deaths": "423"
+    },
+    {
+        "date": "2022/3/12",
+        "patients": "8767",
+        "deaths": "423"
+    },
+    {
+        "date": "2022/3/13",
+        "patients": "8715",
+        "deaths": "427"
+    },
+    {
+        "date": "2022/3/14",
+        "patients": "8687",
+        "deaths": "428"
+    },
+    {
+        "date": "2022/3/15",
+        "patients": "8813",
+        "deaths": "428"
+    },
+    {
+        "date": "2022/3/16",
+        "patients": "9014",
+        "deaths": "429"
+    },
+    {
+        "date": "2022/3/17",
+        "patients": "9354",
+        "deaths": "431"
+    },
+    {
+        "date": "2022/3/18",
+        "patients": "7899",
+        "deaths": "434"
+    },
+    {
+        "date": "2022/3/19",
+        "patients": "7133",
+        "deaths": "436"
+    },
+    {
+        "date": "2022/3/20",
+        "patients": "7512",
+        "deaths": "436"
+    },
+    {
+        "date": "2022/3/21",
+        "patients": "7461",
+        "deaths": "439"
+    },
+    {
+        "date": "2022/3/22",
+        "patients": "7413",
+        "deaths": "440"
+    },
+    {
+        "date": "2022/3/23",
+        "patients": "7356",
+        "deaths": "442"
+    },
+    {
+        "date": "2022/3/24",
+        "patients": "7605",
+        "deaths": "444"
+    },
+    {
+        "date": "2022/3/25",
+        "patients": "7928",
+        "deaths": "445"
+    },
+    {
+        "date": "2022/3/26",
+        "patients": "8202",
+        "deaths": "445"
+    },
+    {
+        "date": "2022/3/27",
+        "patients": "8628",
+        "deaths": "446"
+    },
+    {
+        "date": "2022/3/28",
+        "patients": "8765",
+        "deaths": "446"
+    },
+    {
+        "date": "2022/3/29",
+        "patients": "9172",
+        "deaths": "447"
+    },
+    {
+        "date": "2022/3/30",
+        "patients": "7553",
+        "deaths": "448"
+    },
+    {
+        "date": "2022/3/31",
+        "patients": "7919",
+        "deaths": "448"
+    },
+    {
+        "date": "2022/4/1",
+        "patients": "8323",
+        "deaths": "448"
+    },
+    {
+        "date": "2022/4/2",
+        "patients": "9287",
+        "deaths": "448"
+    },
+    {
+        "date": "2022/4/3",
+        "patients": "9598",
+        "deaths": "448"
+    },
+    {
+        "date": "2022/4/4",
+        "patients": "9784",
+        "deaths": "448"
+    },
+    {
+        "date": "2022/4/5",
+        "patients": "10202",
+        "deaths": "450"
+    },
+    {
+        "date": "2022/4/6",
+        "patients": "10514",
+        "deaths": "450"
+    },
+    {
+        "date": "2022/4/7",
+        "patients": "10754",
+        "deaths": "450"
+    },
+    {
+        "date": "2022/4/8",
+        "patients": "11164",
+        "deaths": "450"
+    },
+    {
+        "date": "2022/4/9",
+        "patients": "10495",
+        "deaths": "451"
+    },
+    {
+        "date": "2022/4/10",
+        "patients": "10762",
+        "deaths": "451"
+    },
+    {
+        "date": "2022/4/11",
+        "patients": "10942",
+        "deaths": "453"
+    },
+    {
+        "date": "2022/4/12",
+        "patients": "11714",
+        "deaths": "453"
+    },
+    {
+        "date": "2022/4/13",
+        "patients": "12142",
+        "deaths": "454"
+    },
+    {
+        "date": "2022/4/14",
+        "patients": "11907",
+        "deaths": "455"
+    },
+    {
+        "date": "2022/4/15",
+        "patients": "12854",
+        "deaths": "456"
+    },
+    {
+        "date": "2022/4/16",
+        "patients": "12821",
+        "deaths": "456"
+    },
+    {
+        "date": "2022/4/17",
+        "patients": "13385",
+        "deaths": "457"
+    },
+    {
+        "date": "2022/4/18",
+        "patients": "10914",
+        "deaths": "457"
+    },
+    {
+        "date": "2022/4/19",
+        "patients": "10787",
+        "deaths": "458"
+    },
+    {
+        "date": "2022/4/20",
+        "patients": "10482",
+        "deaths": "458"
+    },
+    {
+        "date": "2022/4/21",
+        "patients": "11108",
+        "deaths": "459"
+    },
+    {
+        "date": "2022/4/22",
+        "patients": "12064",
+        "deaths": "459"
+    },
+    {
+        "date": "2022/4/23",
+        "patients": "11746",
+        "deaths": "459"
+    },
+    {
+        "date": "2022/4/24",
+        "patients": "12117",
+        "deaths": "460"
+    },
+    {
+        "date": "2022/4/25",
+        "patients": "11509",
+        "deaths": "460"
+    },
+    {
+        "date": "2022/4/26",
+        "patients": "11245",
+        "deaths": "461"
+    },
+    {
+        "date": "2022/4/27",
+        "patients": "11070",
+        "deaths": "464"
+    },
+    {
+        "date": "2022/4/28",
+        "patients": "11725",
+        "deaths": "464"
+    },
+    {
+        "date": "2022/4/29",
+        "patients": "11989",
+        "deaths": "464"
+    },
+    {
+        "date": "2022/4/30",
+        "patients": "11963",
+        "deaths": "464"
+    },
+    {
+        "date": "2022/5/1",
+        "patients": "11983",
+        "deaths": "464"
+    },
+    {
+        "date": "2022/5/2",
+        "patients": "11852",
+        "deaths": "465"
+    },
+    {
+        "date": "2022/5/3",
+        "patients": "11847",
+        "deaths": "466"
+    },
+    {
+        "date": "2022/5/4",
+        "patients": "11649",
+        "deaths": "467"
+    },
+    {
+        "date": "2022/5/5",
+        "patients": "11505",
+        "deaths": "467"
+    },
+    {
+        "date": "2022/5/6",
+        "patients": "11034",
+        "deaths": "467"
+    },
+    {
+        "date": "2022/5/7",
+        "patients": "11030",
+        "deaths": "467"
+    },
+    {
+        "date": "2022/5/8",
+        "patients": "10943",
+        "deaths": "469"
+    },
+    {
+        "date": "2022/5/9",
+        "patients": "11138",
+        "deaths": "469"
+    },
+    {
+        "date": "2022/5/10",
+        "patients": "11675",
+        "deaths": "472"
+    },
+    {
+        "date": "2022/5/11",
+        "patients": "8917",
+        "deaths": "474"
+    },
+    {
+        "date": "2022/5/12",
+        "patients": "9855",
+        "deaths": "474"
+    },
+    {
+        "date": "2022/5/13",
+        "patients": "10552",
+        "deaths": "474"
+    },
+    {
+        "date": "2022/5/14",
+        "patients": "11082",
+        "deaths": "476"
+    },
+    {
+        "date": "2022/5/15",
+        "patients": "11084",
+        "deaths": "476"
+    },
+    {
+        "date": "2022/5/16",
+        "patients": "11399",
+        "deaths": "477"
+    },
+    {
+        "date": "2022/5/17",
+        "patients": "11721",
+        "deaths": "477"
+    },
+    {
+        "date": "2022/5/18",
+        "patients": "11526",
+        "deaths": "478"
+    },
+    {
+        "date": "2022/5/19",
+        "patients": "11830",
+        "deaths": "479"
+    },
+    {
+        "date": "2022/5/20",
+        "patients": "11565",
+        "deaths": "479"
+    },
+    {
+        "date": "2022/5/21",
+        "patients": "11876",
+        "deaths": "481"
+    },
+    {
+        "date": "2022/5/22",
+        "patients": "12035",
+        "deaths": "481"
+    },
+    {
+        "date": "2022/5/23",
+        "patients": "11517",
+        "deaths": "481"
+    },
+    {
+        "date": "2022/5/24",
+        "patients": "11699",
+        "deaths": "483"
+    },
+    {
+        "date": "2022/5/25",
+        "patients": "10772",
+        "deaths": "484"
+    },
+    {
+        "date": "2022/5/26",
+        "patients": "10765",
+        "deaths": "484"
+    },
+    {
+        "date": "2022/5/27",
+        "patients": "10531",
+        "deaths": "484"
+    },
+    {
+        "date": "2022/5/28",
+        "patients": "10420",
+        "deaths": "485"
+    },
+    {
+        "date": "2022/5/29",
+        "patients": "9718",
+        "deaths": "485"
+    },
+    {
+        "date": "2022/5/30",
+        "patients": "9337",
+        "deaths": "485"
+    },
+    {
+        "date": "2022/5/31",
+        "patients": "8940",
+        "deaths": "486"
+    },
+    {
+        "date": "2022/6/1",
+        "patients": "8518",
+        "deaths": "486"
+    },
+    {
+        "date": "2022/6/2",
+        "patients": "8248",
+        "deaths": "486"
+    },
+    {
+        "date": "2022/6/3",
+        "patients": "7544",
+        "deaths": "486"
+    },
+    {
+        "date": "2022/6/4",
+        "patients": "7244",
+        "deaths": "486"
+    },
+    {
+        "date": "2022/6/5",
+        "patients": "6875",
+        "deaths": "486"
+    },
+    {
+        "date": "2022/6/6",
+        "patients": "6739",
+        "deaths": "486"
+    },
+    {
+        "date": "2022/6/7",
+        "patients": "6336",
+        "deaths": "488"
+    },
+    {
+        "date": "2022/6/8",
+        "patients": "6164",
+        "deaths": "489"
+    },
+    {
+        "date": "2022/6/9",
+        "patients": "6359",
+        "deaths": "490"
+    },
+    {
+        "date": "2022/6/10",
+        "patients": "5110",
+        "deaths": "490"
+    },
+    {
+        "date": "2022/6/11",
+        "patients": "5007",
+        "deaths": "490"
+    },
+    {
+        "date": "2022/6/12",
+        "patients": "4928",
+        "deaths": "490"
+    },
+    {
+        "date": "2022/6/13",
+        "patients": "4848",
+        "deaths": "490"
+    },
+    {
+        "date": "2022/6/14",
+        "patients": "4586",
+        "deaths": "490"
+    },
+    {
+        "date": "2022/6/15",
+        "patients": "4501",
+        "deaths": "493"
+    },
+    {
+        "date": "2022/6/16",
+        "patients": "4459",
+        "deaths": "493"
+    },
+    {
+        "date": "2022/6/17",
+        "patients": "4207",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/18",
+        "patients": "3407",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/19",
+        "patients": "3310",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/20",
+        "patients": "3297",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/21",
+        "patients": "3169",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/22",
+        "patients": "3127",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/23",
+        "patients": "3047",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/24",
+        "patients": "3074",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/25",
+        "patients": "3020",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/26",
+        "patients": "3006",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/27",
+        "patients": "3018",
+        "deaths": "494"
+    },
+    {
+        "date": "2022/6/28",
+        "patients": "2929",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/6/29",
+        "patients": "2935",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/6/30",
+        "patients": "3097",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/1",
+        "patients": "3359",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/2",
+        "patients": "3422",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/3",
+        "patients": "3544",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/4",
+        "patients": "3768",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/5",
+        "patients": "3820",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/6",
+        "patients": "3593",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/7",
+        "patients": "3934",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/8",
+        "patients": "4189",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/9",
+        "patients": "4431",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/10",
+        "patients": "4693",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/11",
+        "patients": "4725",
+        "deaths": "495"
+    },
+    {
+        "date": "2022/7/12",
+        "patients": "4868",
+        "deaths": "496"
+    },
+    {
+        "date": "2022/7/13",
+        "patients": "5284",
+        "deaths": "496"
+    },
+    {
+        "date": "2022/7/14",
+        "patients": "6090",
+        "deaths": "497"
+    },
+    {
+        "date": "2022/7/15",
+        "patients": "6834",
+        "deaths": "499"
+    },
+    {
+        "date": "2022/7/16",
+        "patients": "7552",
+        "deaths": "499"
+    },
+    {
+        "date": "2022/7/17",
+        "patients": "8257",
+        "deaths": "500"
+    },
+    {
+        "date": "2022/7/18",
+        "patients": "9025",
+        "deaths": "500"
+    },
+    {
+        "date": "2022/7/19",
+        "patients": "9342",
+        "deaths": "500"
+    },
+    {
+        "date": "2022/7/20",
+        "patients": "9371",
+        "deaths": "502"
+    },
+    {
+        "date": "2022/7/21",
+        "patients": "9720",
+        "deaths": "503"
+    },
+    {
+        "date": "2022/7/22",
+        "patients": "10976",
+        "deaths": "507"
+    },
+    {
+        "date": "2022/7/23",
+        "patients": "12330",
+        "deaths": "507"
+    },
+    {
+        "date": "2022/7/24",
+        "patients": "13546",
+        "deaths": "508"
+    },
+    {
+        "date": "2022/7/25",
+        "patients": "14541",
+        "deaths": "508"
+    },
+    {
+        "date": "2022/7/26",
+        "patients": "15496",
+        "deaths": "509"
+    },
+    {
+        "date": "2022/7/27",
+        "patients": "16360",
+        "deaths": "513"
+    },
+    {
+        "date": "2022/7/28",
+        "patients": "17837",
+        "deaths": "514"
+    },
+    {
+        "date": "2022/7/29",
+        "patients": "19524",
+        "deaths": "516"
+    },
+    {
+        "date": "2022/7/30",
+        "patients": "19732",
+        "deaths": "516"
+    },
+    {
+        "date": "2022/7/31",
+        "patients": "20840",
+        "deaths": "517"
+    },
+    {
+        "date": "2022/8/1",
+        "patients": "21226",
+        "deaths": "517"
+    },
+    {
+        "date": "2022/8/2",
+        "patients": "22488",
+        "deaths": "517"
+    },
+    {
+        "date": "2022/8/3",
+        "patients": "22958",
+        "deaths": "521"
+    },
+    {
+        "date": "2022/8/4",
+        "patients": "24760",
+        "deaths": "524"
+    },
+    {
+        "date": "2022/8/5",
+        "patients": "27593",
+        "deaths": "527"
+    },
+    {
+        "date": "2022/8/6",
+        "patients": "29746",
+        "deaths": "531"
+    },
+    {
+        "date": "2022/8/7",
+        "patients": "31053",
+        "deaths": "532"
+    },
+    {
+        "date": "2022/8/8",
+        "patients": "35273",
+        "deaths": "535"
+    },
+    {
+        "date": "2022/8/9",
+        "patients": "37050",
+        "deaths": "537"
+    },
+    {
+        "date": "2022/8/10",
+        "patients": "37630",
+        "deaths": "542"
+    },
+    {
+        "date": "2022/8/11",
+        "patients": "40923",
+        "deaths": "543"
+    },
+    {
+        "date": "2022/8/12",
+        "patients": "45187",
+        "deaths": "545"
+    },
+    {
+        "date": "2022/8/13",
+        "patients": "48950",
+        "deaths": "548"
+    },
+    {
+        "date": "2022/8/14",
+        "patients": "47069",
+        "deaths": "550"
+    },
+    {
+        "date": "2022/8/15",
+        "patients": "48863",
+        "deaths": "557"
+    },
+    {
+        "date": "2022/8/16",
+        "patients": "51584",
+        "deaths": "564"
+    },
+    {
+        "date": "2022/8/17",
+        "patients": "47566",
+        "deaths": "575"
+    },
+    {
+        "date": "2022/8/18",
+        "patients": "49824",
+        "deaths": "582"
+    },
+    {
+        "date": "2022/8/19",
+        "patients": "53756",
+        "deaths": "586"
+    },
+    {
+        "date": "2022/8/20",
+        "patients": "60135",
+        "deaths": "592"
+    },
+    {
+        "date": "2022/8/21",
+        "patients": "64742",
+        "deaths": "597"
+    },
+    {
+        "date": "2022/8/22",
+        "patients": "67702",
+        "deaths": "601"
+    }
+]

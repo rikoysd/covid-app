@@ -1,0 +1,338 @@
+[
+    {
+        "prefecture": "全国",
+        "ce": "14376",
+        "ventilator": "22254",
+        "maskVentilator": "5943",
+        "ecmo": "1412"
+    },
+    {
+        "prefecture": "北海道",
+        "ce": "788",
+        "ventilator": "860",
+        "maskVentilator": "213",
+        "ecmo": "59"
+    },
+    {
+        "prefecture": "青森県",
+        "ce": "154",
+        "ventilator": "270",
+        "maskVentilator": "98",
+        "ecmo": "15"
+    },
+    {
+        "prefecture": "岩手県",
+        "ce": "0",
+        "ventilator": "477",
+        "maskVentilator": "106",
+        "ecmo": "13"
+    },
+    {
+        "prefecture": "宮城県",
+        "ce": "209",
+        "ventilator": "267",
+        "maskVentilator": "81",
+        "ecmo": "20"
+    },
+    {
+        "prefecture": "秋田県",
+        "ce": "140",
+        "ventilator": "231",
+        "maskVentilator": "69",
+        "ecmo": "12"
+    },
+    {
+        "prefecture": "山形県",
+        "ce": "206",
+        "ventilator": "381",
+        "maskVentilator": "113",
+        "ecmo": "15"
+    },
+    {
+        "prefecture": "福島県",
+        "ce": "198",
+        "ventilator": "239",
+        "maskVentilator": "102",
+        "ecmo": "14"
+    },
+    {
+        "prefecture": "茨城県",
+        "ce": "262",
+        "ventilator": "441",
+        "maskVentilator": "170",
+        "ecmo": "13"
+    },
+    {
+        "prefecture": "栃木県",
+        "ce": "79",
+        "ventilator": "171",
+        "maskVentilator": "48",
+        "ecmo": "11"
+    },
+    {
+        "prefecture": "群馬県",
+        "ce": "246",
+        "ventilator": "346",
+        "maskVentilator": "112",
+        "ecmo": "31"
+    },
+    {
+        "prefecture": "埼玉県",
+        "ce": "1072",
+        "ventilator": "1291",
+        "maskVentilator": "295",
+        "ecmo": "74"
+    },
+    {
+        "prefecture": "千葉県",
+        "ce": "839",
+        "ventilator": "1211",
+        "maskVentilator": "308",
+        "ecmo": "69"
+    },
+    {
+        "prefecture": "東京都",
+        "ce": "1652",
+        "ventilator": "3066",
+        "maskVentilator": "736",
+        "ecmo": "196"
+    },
+    {
+        "prefecture": "神奈川県",
+        "ce": "491",
+        "ventilator": "737",
+        "maskVentilator": "276",
+        "ecmo": "63"
+    },
+    {
+        "prefecture": "新潟県",
+        "ce": "249",
+        "ventilator": "345",
+        "maskVentilator": "129",
+        "ecmo": "22"
+    },
+    {
+        "prefecture": "富山県",
+        "ce": "54",
+        "ventilator": "101",
+        "maskVentilator": "27",
+        "ecmo": "10"
+    },
+    {
+        "prefecture": "石川県",
+        "ce": "50",
+        "ventilator": "100",
+        "maskVentilator": "23",
+        "ecmo": "9"
+    },
+    {
+        "prefecture": "福井県",
+        "ce": "106",
+        "ventilator": "172",
+        "maskVentilator": "36",
+        "ecmo": "6"
+    },
+    {
+        "prefecture": "山梨県",
+        "ce": "115",
+        "ventilator": "208",
+        "maskVentilator": "81",
+        "ecmo": "10"
+    },
+    {
+        "prefecture": "長野県",
+        "ce": "203",
+        "ventilator": "182",
+        "maskVentilator": "44",
+        "ecmo": "9"
+    },
+    {
+        "prefecture": "岐阜県",
+        "ce": "272",
+        "ventilator": "417",
+        "maskVentilator": "106",
+        "ecmo": "20"
+    },
+    {
+        "prefecture": "静岡県",
+        "ce": "385",
+        "ventilator": "487",
+        "maskVentilator": "132",
+        "ecmo": "40"
+    },
+    {
+        "prefecture": "愛知県",
+        "ce": "670",
+        "ventilator": "898",
+        "maskVentilator": "245",
+        "ecmo": "70"
+    },
+    {
+        "prefecture": "三重県",
+        "ce": "170",
+        "ventilator": "222",
+        "maskVentilator": "61",
+        "ecmo": "17"
+    },
+    {
+        "prefecture": "滋賀県",
+        "ce": "171",
+        "ventilator": "240",
+        "maskVentilator": "58",
+        "ecmo": "15"
+    },
+    {
+        "prefecture": "京都府",
+        "ce": "451",
+        "ventilator": "428",
+        "maskVentilator": "137",
+        "ecmo": "40"
+    },
+    {
+        "prefecture": "大阪府",
+        "ce": "634",
+        "ventilator": "1000",
+        "maskVentilator": "281",
+        "ecmo": "103"
+    },
+    {
+        "prefecture": "兵庫県",
+        "ce": "306",
+        "ventilator": "619",
+        "maskVentilator": "112",
+        "ecmo": "47"
+    },
+    {
+        "prefecture": "奈良県",
+        "ce": "225",
+        "ventilator": "374",
+        "maskVentilator": "61",
+        "ecmo": "21"
+    },
+    {
+        "prefecture": "和歌山県",
+        "ce": "62",
+        "ventilator": "156",
+        "maskVentilator": "31",
+        "ecmo": "12"
+    },
+    {
+        "prefecture": "鳥取県",
+        "ce": "98",
+        "ventilator": "223",
+        "maskVentilator": "50",
+        "ecmo": "13"
+    },
+    {
+        "prefecture": "島根県",
+        "ce": "115",
+        "ventilator": "261",
+        "maskVentilator": "118",
+        "ecmo": "14"
+    },
+    {
+        "prefecture": "岡山県",
+        "ce": "481",
+        "ventilator": "560",
+        "maskVentilator": "147",
+        "ecmo": "38"
+    },
+    {
+        "prefecture": "広島県",
+        "ce": "426",
+        "ventilator": "679",
+        "maskVentilator": "167",
+        "ecmo": "35"
+    },
+    {
+        "prefecture": "山口県",
+        "ce": "226",
+        "ventilator": "497",
+        "maskVentilator": "133",
+        "ecmo": "24"
+    },
+    {
+        "prefecture": "徳島県",
+        "ce": "170",
+        "ventilator": "219",
+        "maskVentilator": "39",
+        "ecmo": "5"
+    },
+    {
+        "prefecture": "香川県",
+        "ce": "205",
+        "ventilator": "383",
+        "maskVentilator": "71",
+        "ecmo": "19"
+    },
+    {
+        "prefecture": "愛媛県",
+        "ce": "166",
+        "ventilator": "216",
+        "maskVentilator": "69",
+        "ecmo": "22"
+    },
+    {
+        "prefecture": "高知県",
+        "ce": "166",
+        "ventilator": "176",
+        "maskVentilator": "33",
+        "ecmo": "8"
+    },
+    {
+        "prefecture": "福岡県",
+        "ce": "445",
+        "ventilator": "625",
+        "maskVentilator": "139",
+        "ecmo": "36"
+    },
+    {
+        "prefecture": "佐賀県",
+        "ce": "69",
+        "ventilator": "174",
+        "maskVentilator": "44",
+        "ecmo": "11"
+    },
+    {
+        "prefecture": "長崎県",
+        "ce": "134",
+        "ventilator": "346",
+        "maskVentilator": "64",
+        "ecmo": "20"
+    },
+    {
+        "prefecture": "熊本県",
+        "ce": "326",
+        "ventilator": "523",
+        "maskVentilator": "137",
+        "ecmo": "19"
+    },
+    {
+        "prefecture": "大分県",
+        "ce": "206",
+        "ventilator": "322",
+        "maskVentilator": "64",
+        "ecmo": "18"
+    },
+    {
+        "prefecture": "宮崎県",
+        "ce": "136",
+        "ventilator": "311",
+        "maskVentilator": "86",
+        "ecmo": "11"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "ce": "217",
+        "ventilator": "393",
+        "maskVentilator": "137",
+        "ecmo": "28"
+    },
+    {
+        "prefecture": "沖縄県",
+        "ce": "333",
+        "ventilator": "409",
+        "maskVentilator": "154",
+        "ecmo": "35"
+    }
+]

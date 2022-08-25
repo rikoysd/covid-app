@@ -174,8 +174,8 @@ export const SwitchPrefecture: FC<Props> = (props) => {
       datasets: [
         {
           label: "Dataset",
-          data: [0],
-          backgroundColor: ["#F30100"],
+          data: [0, 0],
+          backgroundColor: ["#F30100", "#dcdcdc"],
           borderColor: ["#FFFFFF"],
           borderWidth: 2,
         },
@@ -210,7 +210,7 @@ export const SwitchPrefecture: FC<Props> = (props) => {
         const patients = Number(props.patientsOfBreakingNews.ncurrentpatients);
         const label = "現在患者数(" + patients + ")";
         arr.push(label);
-        const countryData = [patients];
+        const countryData = [patients, 0];
         data.datasets[0].data = countryData;
         setData(data);
         let object: Prefecture = {
@@ -228,7 +228,7 @@ export const SwitchPrefecture: FC<Props> = (props) => {
         const patients = Number(country.ncurrentpatients);
         const label = "現在患者数(" + patients + ")";
         arr.push(label);
-        const countryData = [patients];
+        const countryData = [patients, 0];
         data.datasets[0].data = countryData;
         setData(data);
         let object: Prefecture = {
@@ -271,7 +271,7 @@ export const SwitchPrefecture: FC<Props> = (props) => {
               const patients = Number(props.tokyoPatient.ncurrentpatients);
               const label = "現在患者数(" + patients + ")";
               arr.push(label);
-              const countryData = [patients];
+              const countryData = [patients, 0];
               data.datasets[0].data = countryData;
               setData(data);
               currentPatients = prefecture.ncurrentpatients;
@@ -288,7 +288,7 @@ export const SwitchPrefecture: FC<Props> = (props) => {
               const patients = Number(prefecture.ncurrentpatients);
               const label = "現在患者数(" + patients + ")";
               arr.push(label);
-              const countryData = [patients];
+              const countryData = [patients, 0];
               data.datasets[0].data = countryData;
               setData(data);
               currentPatients = prefecture.ncurrentpatients;

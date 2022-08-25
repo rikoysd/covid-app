@@ -322,9 +322,21 @@ export const App: FC = () => {
                       }
                     })()}
                   </table>
-                  <SText>
-                    現在患者数 更新日: {lastUpdateOfDaily} (速報 {lastUpdate})
-                  </SText>
+                  {(() => {
+                    if (changePatientsFlag === true) {
+                      return (
+                        <SText>
+                          現在患者数 更新日: {lastUpdateOfDaily} (速報{" "}
+                          {lastUpdate})
+                        </SText>
+                      );
+                    } else {
+                      return (
+                        <SText>現在患者数 更新日: {lastUpdateOfDaily}</SText>
+                      );
+                    }
+                  })()}
+
                   <SText>対策病床数 発表日: {lastUpdateOfBedrooms}</SText>
                   <SText>
                     新型コロナ対策病床数は

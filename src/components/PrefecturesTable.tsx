@@ -37,9 +37,15 @@ export const PrefecturesTable: FC<Props> = (props) => {
 
   useEffect(() => {
     const newInfo = [...info];
+    let patient = 0;
     for (let ob of info) {
       if (ob.name === "東京都") {
-        let patient = ob.patients - ob.dcurrentpatients;
+        if (ob.patients === props.currentPatientsOfTokyo) {
+          patient = ob.patients;
+        } else {
+          patient = ob.patients - ob.dcurrentpatients;
+        }
+
         let tokyo: TableInfo = {
           id: -1,
           name: "東京都",

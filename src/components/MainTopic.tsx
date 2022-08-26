@@ -86,7 +86,12 @@ export const MainTopic: FC = () => {
 
   return (
     <SLine>
-      <PatientsLineChart data={data} options={options}></PatientsLineChart>
+      <PatientsLineChart
+        data={data}
+        options={options}
+        width={1100}
+        height={500}
+      ></PatientsLineChart>
     </SLine>
   );
 };

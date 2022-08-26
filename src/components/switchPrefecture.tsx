@@ -431,7 +431,7 @@ export const SwitchPrefecture: FC<Props> = (props) => {
           一般社団法人 日本呼吸療法医学会 公益社団法人 日本臨床工学技士会
         </a>
       </SDocument>
-      <PatientsLineChart data={data2} options={options2}></PatientsLineChart>
+      <PatientsLineChart data={data2} options={options2} width={700} height={500}></PatientsLineChart>
       <SButtonPosition>
         <SButton onClick={onClickTop}>戻る</SButton>
       </SButtonPosition>

@@ -13,6 +13,8 @@ Chart.register(ArcElement, Tooltip, CategoryScale, ...registerables);
 type Props = {
   data: any;
   options: any;
+  width:number;
+  height:number;
 };
 
 export const PatientsLineChart: FC<Props> = (props) => {
@@ -22,8 +24,8 @@ export const PatientsLineChart: FC<Props> = (props) => {
     <SContainer>
       <div>
         <Line
-          width={700}
-          height={500}
+          width={props.width}
+          height={props.height}
           data={props.data}
           options={props.options}
         ></Line>

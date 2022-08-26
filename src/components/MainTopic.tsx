@@ -51,7 +51,7 @@ export const MainTopic: FC = () => {
       labels: [""],
       datasets: [
         {
-          label: "数救急搬送困難事案数",
+          label: "救急搬送困難事案数",
           data: [0],
           showLine: false,
           backgroundColor: "#F30100",

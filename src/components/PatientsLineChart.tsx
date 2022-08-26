@@ -22,7 +22,7 @@ export const PatientsLineChart: FC<Props> = (props) => {
     <SContainer>
       <div>
         <Line
-          width={600}
+          width={700}
           height={500}
           data={props.data}
           options={props.options}

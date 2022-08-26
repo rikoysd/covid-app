@@ -7,7 +7,6 @@ import { useFetchTableInfo } from "../hooks/useFetchTableInfo";
 import type { TableInfo } from "../types/tableInfo";
 
 type Props = {
-  setGraphFlag: (boolean: boolean) => void;
   setChangeComponentFlag: (boolean: boolean) => void;
   setSelectedPrefecture: (string: string) => void;
   currentPatientsOfCountry: number;
@@ -19,7 +18,6 @@ export const PrefecturesTable: FC<Props> = (props) => {
   const {
     setChangeComponentFlag,
     setSelectedPrefecture,
-    setGraphFlag,
     currentPatientsOfCountry,
     changePatientsFlag,
     currentPatientsOfTokyo,
@@ -65,12 +63,6 @@ export const PrefecturesTable: FC<Props> = (props) => {
   const onClickCard = useCallback((name: string) => {
     props.setChangeComponentFlag(true);
     props.setSelectedPrefecture(name);
-    // グラフの表示切替
-    if (name === "全国") {
-      props.setGraphFlag(true);
-    } else {
-      props.setGraphFlag(false);
-    }
   }, []);
 
   return (
@@ -79,14 +71,13 @@ export const PrefecturesTable: FC<Props> = (props) => {
         if (props.changePatientsFlag === true) {
           return (
             <SCardPosition>
-              <SCard
+              <SCard2
                 style={{
                   width: "160px",
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",
                 }}
-                onClick={() => onClickCard("全国")}
               >
                 <div>
                   <SText style={{ fontSize: "0.9em" }}>
@@ -97,7 +88,7 @@ export const PrefecturesTable: FC<Props> = (props) => {
                     (全国)現在患者数/対策病床数
                   </SText>
                 </div>
-              </SCard>
+              </SCard2>
               {info.map((ob, index) => (
                 <SCard key={index} onClick={() => onClickCard(ob.name)}>
                   <SText
@@ -160,14 +151,13 @@ export const PrefecturesTable: FC<Props> = (props) => {
         } else {
           return (
             <SCardPosition>
-              <SCard
+              <SCard2
                 style={{
                   width: "160px",
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",
                 }}
-                onClick={() => onClickCard("全国")}
               >
                 <div>
                   <SText style={{ fontSize: "0.9em" }}>
@@ -179,7 +169,7 @@ export const PrefecturesTable: FC<Props> = (props) => {
                     (全国)現在患者数/対策病床数
                   </SText>
                 </div>
-              </SCard>
+              </SCard2>
               {countryPatients.map((ob, index) => (
                 <SCard key={index} onClick={() => onClickCard(ob.name)}>
                   <SText
@@ -255,6 +245,15 @@ const SCard = styled("div")({
   "&:hover": {
     cursor: "pointer",
   },
+});
+
+const SCard2 = styled("div")({
+  backgroundColor: "black",
+  color: "white",
+  margin: "3px",
+  padding: "2px",
+  width: "75px",
+  height: "3.3em",
 });
 
 const SCardPosition = styled("div")({

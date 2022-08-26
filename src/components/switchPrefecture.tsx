@@ -7,15 +7,12 @@ import { useFetchTableInfo } from "../hooks/useFetchTableInfo";
 import type { TableInfo } from "../types/tableInfo";
 import { useFetchPatients } from "../hooks/useFetchPatients";
 import { styled } from "@mui/material";
-import countryPatients from "../json/countryPatients.json";
-import transport from "../json/transport.json";
 import ventilator from "../json/ventilator.json";
 import type { Ventilator } from "../types/ventilator";
 
 type Props = {
   setChangeComponentFlag: (boolean: boolean) => void;
   selectedPrefecture: string;
-  graphFlag: boolean;
   changePatientsFlag: boolean;
   patientsOfBreakingNews: Prefecture;
   tokyoPatient: Prefecture;
@@ -25,7 +22,6 @@ export const SwitchPrefecture: FC<Props> = (props) => {
   const {
     setChangeComponentFlag,
     selectedPrefecture,
-    graphFlag,
     changePatientsFlag,
     patientsOfBreakingNews,
     tokyoPatient,
@@ -108,47 +104,6 @@ export const SwitchPrefecture: FC<Props> = (props) => {
     },
   };
 
-  // 折れ線グラフに使用するデータ(全国)
-  const [data3, setData3] = useState<any>({
-    labels: [""],
-    datasets: [
-      {
-        label: "救急搬送困難事案数",
-        data: [0],
-        showLine: false,
-        backgroundColor: "",
-        borderColor: "",
-        yAxisID: "y-axis-transport",
-      },
-      {
-        label: "入院治療を要する者",
-        data: [0],
-        backgroundColor: "",
-        borderColor: "",
-        yAxisID: "y-axis-patients",
-      },
-    ],
-  });
-
-  const options3 = {
-    scales: {
-      "y-axis-transport": {
-        position: "left",
-        title: {
-          display: true,
-          text: "救急搬送困難事案数",
-        },
-      },
-      "y-axis-patients": {
-        position: "right",
-        title: {
-          display: true,
-          text: "入院治療を要する者",
-        },
-      },
-    },
-  };
-
   useEffect(() => {
     (async () => {
       await getPrefectures();
@@ -182,27 +137,6 @@ export const SwitchPrefecture: FC<Props> = (props) => {
       ],
     };
 
-    let data2 = {
-      labels: [""],
-      datasets: [
-        {
-          label: "数救急搬送困難事案数",
-          data: [0],
-          showLine: false,
-          backgroundColor: "#F30100",
-          borderColor: "#a9a9a9",
-          borderWidth: 0.5,
-          yAxisID: "y-axis-transport",
-        },
-        {
-          label: "入院治療を要する者",
-          data: [0],
-          backgroundColor: "#5050cd",
-          borderColor: "#5050cd",
-          yAxisID: "y-axis-patients",
-        },
-      ],
-    };
     if (props.selectedPrefecture === "全国") {
       const arr = [];
       // 速報
@@ -245,22 +179,10 @@ export const SwitchPrefecture: FC<Props> = (props) => {
       let dateArr: Array<string> = [];
       let transportArr: Array<number> = [];
       let patientsArr: Array<number> = [];
-      for (let ob of transport) {
-        transportArr.push(Number(ob.transportDifficultNum));
-      }
-      data2.datasets[0].data = transportArr;
       const beds = Number(country.ncurrentpatients) - Number(allBedNum);
       const label2 = "想定病床残数(-" + beds + ")";
       arr.push(label2);
       data.labels = arr;
-
-      for (let ob of countryPatients) {
-        dateArr.push(ob.date);
-        patientsArr.push(Number(ob.patients));
-      }
-      data2.labels = dateArr;
-      data2.datasets[1].data = patientsArr;
-      setData3(data2);
     } else {
       let currentPatients = 0;
       const arr = [];
@@ -509,24 +431,7 @@ export const SwitchPrefecture: FC<Props> = (props) => {
           一般社団法人 日本呼吸療法医学会 公益社団法人 日本臨床工学技士会
         </a>
       </SDocument>
-      {(() => {
-        if (props.graphFlag === true) {
-          return (
-            <PatientsLineChart
-              data={data3}
-              options={options3}
-            ></PatientsLineChart>
-          );
-        } else {
-          return (
-            <PatientsLineChart
-              data={data2}
-              options={options2}
-            ></PatientsLineChart>
-          );
-        }
-      })()}
-
+      <PatientsLineChart data={data2} options={options2}></PatientsLineChart>
       <SButtonPosition>
         <SButton onClick={onClickTop}>戻る</SButton>
       </SButtonPosition>
